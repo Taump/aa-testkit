@@ -18,10 +18,10 @@
     "node": ">=8"
   },
   "dependencies": {
-    "headless-obyte": "git+https://github.com/byteball/headless-obyte",
+    "headless-obyte": "git+https://github.com/byteball/headless-obyte#v4",
     "obyte-explorer": "git+https://github.com/byteball/obyte-explorer",
     "obyte-hub": "git+https://github.com/byteball/obyte-hub",
-    "obyte-witness": "git+https://github.com/byteball/obyte-witness",
+    "obyte-witness": "git+https://github.com/byteball/obyte-witness#v4",
     "ocore": "git+https://github.com/byteball/ocore",
     "bitcore-lib": "^0.13.14",
     "bitcore-mnemonic": "~1.0.0",
